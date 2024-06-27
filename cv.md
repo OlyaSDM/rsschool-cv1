@@ -1,5 +1,5 @@
 # **Olya Safronova**
----
+
 ### Frontend Developer/Web Designer
 ![Photo](/rsschool-cv/avatar/photo.png)
 ### Contacts
