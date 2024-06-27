@@ -36,33 +36,6 @@ I am passionate about learning and developing intuitive and user-friendly apps. 
 
 ### Code Example
 
----
-
-### Experience
-
-* Lead Engineer for Advertising, Marketing and Sales Management  (Oct 2007 — Oct 2008)  
-* Entrepreneur (June 2009  – Nov 2020)  
-* UX/UI Designer (Nov 2020  – Dec 2022)
-* Frontend developer (Sept 2023 - current time)
-
----
-
-### Projects 
-
-* [Visainusa](https://visainusa.com/)
-* [The weather now](https://mobile-app-weather.glitch.me/)
-* [Timer](https://kitchen-timer-by-olya-safronova.glitch.me/)
-* [Shopping-list](https://my-shopping-list---by-olya-safronova.glitch.me/)
-* [Bath-complecs](https://bath-complecs-hogshead.glitch.me/)
-
----
-
-### English
-
-**B1**
-
----
-
 ```
 function myHappyBirthday() {
     const birthdayDate = new Date('October 23, 2024 00:00');
@@ -101,6 +74,34 @@ function myBiirthday() {
     const heading = document.querySelector('#heading');
     heading.textContent = ('My party is today')
 }
+```
+---
+
+### Experience
+
+* Lead Engineer for Advertising, Marketing and Sales Management  (Oct 2007 — Oct 2008)  
+* Entrepreneur (June 2009  – Nov 2020)  
+* UX/UI Designer (Nov 2020  – Dec 2022)
+* Frontend developer (Sept 2023 - current time)
+
+---
+
+### Projects 
+
+* [Visainusa](https://visainusa.com/)
+* [The weather now](https://mobile-app-weather.glitch.me/)
+* [Timer](https://kitchen-timer-by-olya-safronova.glitch.me/)
+* [Shopping-list](https://my-shopping-list---by-olya-safronova.glitch.me/)
+* [Bath-complecs](https://bath-complecs-hogshead.glitch.me/)
+
+---
+
+### English
+
+**B1**
+
+---
+
 
 
 
