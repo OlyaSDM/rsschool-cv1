@@ -1,7 +1,7 @@
 # **Olya Safronova**
 ---
 ### Frontend Developer/Web Designer
-![Photo](/photo.png)
+![Photo](/rsschool-cv/avatar/photo.png)
 ### Contacts
 * Location: Belarus
 * GitHub: Olya2125
