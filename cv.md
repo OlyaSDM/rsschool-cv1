@@ -1,4 +1,4 @@
-**Olya Safronova**
+# **Olya Safronova**
 ---
 ### Frontend Developer/Web Designer
 ![Photo](/photo.png)
