@@ -34,3 +34,74 @@ I am passionate about learning and developing intuitive and user-friendly apps. 
 
 ---
 
+### Code Example
+
+---
+
+### Experience
+
+* Lead Engineer for Advertising, Marketing and Sales Management  (Oct 2007 — Oct 2008)  
+* Entrepreneur (June 2009  – Nov 2020)  
+* UX/UI Designer (Nov 2020  – Dec 2022)
+* Frontend developer (Sept 2023 - current time)
+
+---
+
+### Projects 
+
+* [Visainusa](https://visainusa.com/)
+* [The weather now](https://mobile-app-weather.glitch.me/)
+* [Timer](https://kitchen-timer-by-olya-safronova.glitch.me/)
+* [Shopping-list](https://my-shopping-list---by-olya-safronova.glitch.me/)
+* [Bath-complecs](https://bath-complecs-hogshead.glitch.me/)
+
+---
+
+### English
+
+**B1**
+
+---
+
+```
+function myHappyBirthday() {
+    const birthdayDate = new Date('October 23, 2024 00:00');
+    const now = new Date();
+    const days = birthdayDate - now;
+    const msInSecond = 1000;
+    const msInMinute = 60 * 1000;
+    const msInHour = 60 * 60 *1000;
+    const msInDay = 24 * 60 * 60 * 1000;
+
+    const displayDay = Math.floor(days / msInDay);
+    document.querySelector('.days').textContent = displayDay;
+
+    const displayHour = Math.floor((days % msInDay) / msInHour);
+    document.querySelector('.hours').textContent = displayHour;
+
+    const displayMinute = Math.floor((days % msInHour) / msInMinute);
+    document.querySelector('.minutes').textContent = displayMinute;
+
+    const displaySecond = Math.floor((days % msInMinute) / msInSecond);
+    document.querySelector('.seconds').textContent = displaySecond;
+
+    if (days <= 0) {
+        document.querySelector('.days').textContent = 0;
+        document.querySelector('.hours').textContent = 0;
+        document.querySelector('.minutes').textContent = 0;
+        document.querySelector('.seconds').textContent = 0;
+        clearInterval(timer);
+        myBiirthday();
+    }
+}
+
+let timer = setInterval(myHappyBirthday, 1000);
+
+function myBiirthday() {
+    const heading = document.querySelector('#heading');
+    heading.textContent = ('My party is today')
+}
+
+
+
+
